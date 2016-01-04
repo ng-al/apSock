@@ -1,0 +1,23 @@
+{
+  "name": "apSock",
+  "description": "Angular socket.io service",
+  "homepage": "http://www.ng-al.com",
+  "authors": [
+    "Alvin Pivowar (alvin@ng-al.com)"
+  ],
+  "version": "1.0.0",
+  "license": "BSD",
+  "main": [
+    "dist/apSock.js"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.0"
+  },
+  "moduleType": [],
+  "ignore": [],
+  "keywords": [
+    "Angular",
+    "socket",
+    "socket.io"
+  ]
+}
